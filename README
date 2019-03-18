@@ -1,0 +1,7 @@
+Create by Alissa Monroe and Megan Lahm.
+Rabbits and Farmers game:
+Red is North Rabbit, Blue is South Rabbit, and Orange is Farmer.
+Can be played by 2 people where one person is both rabbits and the other is the farmer or by three people.
+The goal of the game for the rabbits are to meet, while the goal for the farmer is to prevent the rabbits from meeting.
+Whichever goal is met, that player wins.
+Run View.java under src > application to play the game.
